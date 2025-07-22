@@ -1,3 +1,6 @@
+# AS OF 7/22/2025, the Migration tool now handles SQL reports and schedules.
+
+
 # Secret Server Report Migration Script
 
 ## Overview
